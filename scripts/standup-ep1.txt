@@ -1,0 +1,39 @@
+# title: Stand-up night 🎤 "My mom calls 7 times"
+# bg: comedyclub
+# cast: gent
+
+gent (happy) [enter-left]
+- clap 1.5
+gent (happy) [mic]: Good evening everybody!
+gent (smug) [mic-shrug]: Yes. I dress like this every single day.
+gent (happy) [mic]: People see me and think I'm going to a wedding.
+gent (smug) [mic zoom]: I'm going to the supermarket.
+- laugh 1.8
+
+gent (neutral) [mic]: My phone battery is exactly like my motivation.
+gent (happy) [mic-point]: In the morning? One hundred percent!
+gent (bored) [mic zoom]: By lunch: please connect to a charger.
+- laugh 1.6
+
+gent (neutral) [mic]: My mom does not text. She calls.
+gent (shocked) [mic-point]: Seven times.
+gent (surprised) [mic]: If you miss call number one, she thinks you are dead.
+gent (smug) [mic zoom]: By call number seven, she already sold your bed.
+- rimshot
+- laugh 2
+
+gent (angry) [mic-shrug]: Then you pick up, and she says: why are you not picking up?
+gent (shocked) [mic zoom shake]: Mama, I AM picking up! This is me! Picking up!
+- laugh 1.8
+
+gent (neutral) [mic]: I joined the gym in January.
+gent (happy) [mic-point]: And I have been very consistent.
+gent (smug) [mic zoom]: Every month. Consistently paying.
+- rimshot
+- laugh 1.5
+
+gent (happy) [mic]: You guys are amazing. Thank you!
+gent (surprised) [phone]: Oh, hold on. It's my mom.
+gent (scared) [phone zoom]: That's call number eight. Pray for me.
+gent (scared) [run exit-right]
+- clap 2
